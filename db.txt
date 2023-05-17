@@ -2,3 +2,4 @@ Krzysztof 20
 Janusz 40
 bartosz 12
 marcin 32
+bartosz wilk 42
