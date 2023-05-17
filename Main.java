@@ -19,6 +19,7 @@ class Main {
         System.out.println(" 1. dodaj studenta");
         int wybor = scan.nextInt();
         scan.nextLine();
+        
          switch(wybor){
            case 1:{
              System.out.println("Podaj imie");
