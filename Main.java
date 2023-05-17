@@ -17,6 +17,7 @@ class Main {
       Scanner scan = new Scanner(System.in);
       while(true){
         System.out.println(" 1. dodaj studenta");
+        System.out.println(" 2. wyswietl liste");
         int wybor = scan.nextInt();
         scan.nextLine();
          switch(wybor){
