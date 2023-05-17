@@ -13,6 +13,7 @@ class Main {
   public static void main(String[] args) {
     try {
       Service s = new Service();
+      
       Scanner scan = new Scanner(System.in);
       while(true){
         System.out.println(" 1. dodaj studenta");
